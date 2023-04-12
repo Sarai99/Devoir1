@@ -15,4 +15,5 @@
 - [x] User can also enter multiple choice answers when creating a card
 - [x] App is further styled and customized!
 
-<img src="[Uploading Devoir1Gif2.gif…]" width="200" height="400" />  
+<img src="![Devoir1Gif2](https://user-images.githubusercontent.com/105499150/231348722-9b1f8e46-00a7-453a-b02f-0b7e685092db.gif)
+" width="200" height="400" />  
